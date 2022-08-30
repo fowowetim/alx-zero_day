@@ -1,1 +1,1 @@
-Upload readme file: My second commit in alx project 
+Upload readme file: My second commit in alx project is awesome
